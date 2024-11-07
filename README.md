@@ -17,7 +17,7 @@ example task of classifying vowel sequences.
 
 ### Activating the kernel
 1. Refresh your browser
-2. Open the notebok (speech_analysis.ipynb)
+2. Open the notebok (hmm_lab.ipynb)
 3. Go to Kernel > Change Kernel
 4. Choose EE554_Lab3
 
